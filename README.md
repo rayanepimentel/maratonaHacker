@@ -16,7 +16,7 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 
 ---
 
-# Lista
+# Para praticar
 
 - [Maratona Hacker](https://maratonahacker.net.br/scoreboard) :brazil:
 - [PicoCTF](https://picoctf.org/) :us:
