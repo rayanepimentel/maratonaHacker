@@ -16,7 +16,7 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 
 ---
 
-# Para praticar - CTF
+# :triangular_flag_on_post: CTF - Para praticar :space_invader:
 
 - [Capture the flag](https://capturetheflag.com.br/) :brazil:
 - [CTF-BR](https://ctf-br.org/wiki/elt/) :brazil:
@@ -31,15 +31,15 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 - [Root](https://www.root-me.org/) :fr:
 - [Wargames](https://overthewire.org/wargames/) :us:
 
-# Material de estudo
+# :scroll: Material de estudo
 
 - [Enigma Unicamp](https://enigma.ic.unicamp.br/atividades/) :brazil:
 - [HackFlag](https://hackaflag.com.br/academy.html) :brazil:
 
-# Ferramentas
+# :floppy_disk: Ferramentas
 
 - [PentestBox](https://pentestbox.org/pt/) :brazil:
 
-# Hackletter
+# :newspaper: Hackletter
 
 - [Casa Hacker](https://casahacker.org/inicio) :brazil:
