@@ -25,7 +25,7 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 - [Hack the box](https://www.hackthebox.eu/) :us:
 - [Maratona Hacker](https://maratonahacker.net.br/scoreboard) :brazil:
 - [PicoCTF](https://picoctf.org/) :us:
-- [Reversing](http://reversing.kr/) :us
+- [Reversing](http://reversing.kr/) :us:
 - [Ring Zer0 CTF](https://ringzer0ctf.com/home) :us:
 - [Root](https://www.root-me.org/) :fr:
 - [Wargames](https://overthewire.org/wargames/) :us:
