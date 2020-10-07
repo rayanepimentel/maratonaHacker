@@ -32,6 +32,7 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 
 # Material de estudo
 
+- [Enigma Unicamp](https://enigma.ic.unicamp.br/atividades/) :brazil:
 - [HackFlag](https://hackaflag.com.br/academy.html) :brazil:
 
 # Hackletter
