@@ -38,9 +38,8 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 
 # :floppy_disk: Ferramentas
 
-- [CodePen](https://codepen.io/) :us:
+- [Wireshark](https://www.wireshark.org/) :us:
 - [PentestBox](https://pentestbox.org/pt/) :brazil:
-- [p5*](https://editor.p5js.org/) :us:
 
 # :newspaper: Hackletter
 
