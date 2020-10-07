@@ -19,6 +19,7 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 # Para praticar - CTF
 
 - [Capture the flag](https://capturetheflag.com.br/) :brazil:
+- [CTF-BR](https://ctf-br.org/wiki/elt/) :brazil:
 - [CTF Learn](https://ctflearn.com/) :us:
 - [Cryptopals](https://cryptopals.com/) :us:
 - [Forensics Contest](http://forensicscontest.com/puzzles) :us:
@@ -34,6 +35,10 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 
 - [Enigma Unicamp](https://enigma.ic.unicamp.br/atividades/) :brazil:
 - [HackFlag](https://hackaflag.com.br/academy.html) :brazil:
+
+# Ferramentas
+
+- [PentestBox](https://pentestbox.org/pt/) :brazil:
 
 # Hackletter
 
