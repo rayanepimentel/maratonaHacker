@@ -1,5 +1,6 @@
 # Maratona Hacker
 
+- Conteúdo gratuito 🤩
 
 ## 📌 Como contribuir:
 
@@ -19,3 +20,7 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 
 - [Maratona Hacker](https://maratonahacker.net.br/scoreboard) :brazil:
 - [PicoCTF](https://picoctf.org/) :us:
+
+# Material de estudo
+
+- [HackFlag](https://hackaflag.com.br/academy.html) :brazil:
