@@ -39,6 +39,7 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 # :floppy_disk: Ferramentas
 
 - [PentestBox](https://pentestbox.org/pt/) :brazil:
+- [CodePen](https://codepen.io/) :us:
 
 # :newspaper: Hackletter
 
