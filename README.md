@@ -18,8 +18,15 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 
 # Para praticar
 
+- [Capture the flag](https://capturetheflag.com.br/) :brazil:
+- [Cryptopals](https://cryptopals.com/) :us:
+- [Forensics Contest](http://forensicscontest.com/puzzles) :us:
+- [Hack the box](https://www.hackthebox.eu/) :us:
 - [Maratona Hacker](https://maratonahacker.net.br/scoreboard) :brazil:
 - [PicoCTF](https://picoctf.org/) :us:
+- [Reversing](http://reversing.kr/) :us
+- [Root](https://www.root-me.org/) :fr:
+- [Wargames](https://overthewire.org/wargames/) :us:
 
 # Material de estudo
 
