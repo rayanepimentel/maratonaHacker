@@ -2,7 +2,7 @@
 
 - Conteúdo gratuito 🤩
 
-## 📌 Como contribuir:
+## 📌 Como contribuir
 
 - Fork e clone
 - Crie um branch para sua contribuição: git checkout -b minha-branch
