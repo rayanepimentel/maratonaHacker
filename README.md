@@ -36,4 +36,4 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 
 # Hackletter
 
--[Casa Hacker](https://casahacker.org/inicio) :brazil:
+- [Casa Hacker](https://casahacker.org/inicio) :brazil:
