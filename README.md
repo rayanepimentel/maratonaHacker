@@ -33,8 +33,14 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 
 # :scroll: Material de estudo
 
-- [Enigma Unicamp](https://enigma.ic.unicamp.br/atividades/) :brazil:
-- [HackFlag](https://hackaflag.com.br/academy.html) :brazil:
+| Descrição                                                                                                                                      | Tipo    | Certificado | Idioma |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------| ----------- | -------- |
+| [Cisco](https://www.netacad.com/courses/cybersecurity)                                                                                         | Curso    | Sim         | PT-BR
+| [Enigma Unicamp](https://enigma.ic.unicamp.br/atividades/)                                                                                     | Livre    | Não         | PT-BR
+| [eSecurity](https://esecurity.com.br/cursos/)                                                                                                  | Curso    | Sim         | PT-BR
+| [HackFlag](https://hackaflag.com.br/academy.html)                                                                                              | Curso    | Sim         | PT-BR
+| [Kaduflix](https://li.crowsec.com.br/)                                                                                                         | Livre    | Não         | PT-BR
+| [RSI](https://www.youtube.com/c/RSIResid%C3%AAnciaemSeguran%C3%A7adaInforma%C3%A7%C3%A3o/playlists)                                            | Livre    | Não         | PT-BR
 
 # :floppy_disk: Ferramentas Hacker
 
