@@ -44,3 +44,4 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 # :newspaper: Hackletter
 
 - [Casa Hacker](https://casahacker.org/inicio) :brazil:
+- [The Hack](https://thehack.com.br/) :brazil:
