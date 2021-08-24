@@ -25,6 +25,7 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 - [Forensics Contest](http://forensicscontest.com/puzzles) :us:
 - [Hack the box](https://www.hackthebox.eu/) :us:
 - [Maratona Hacker](https://maratonahacker.net.br/scoreboard) :brazil:
+- [Natas](https://overthewire.org/wargames/natas) :us:
 - [Pentester](https://pentesterlab.com/) :us:
 - [PicoCTF](https://picoctf.org/) :us:
 - [Reversing](http://reversing.kr/) :us:
