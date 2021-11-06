@@ -56,4 +56,5 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 
 - [Casa Hacker](https://casahacker.org/inicio) :brazil:
 - [Hekate - Metis Security](https://www.hekateinc.com/metissecurity) :brazil:
+- [StarsCTF](https://www.starsctf.org/) :brazil:
 - [The Hack](https://thehack.com.br/) :brazil:
