@@ -45,7 +45,8 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 | [Kaduflix](https://li.crowsec.com.br/)                                                                                                         | Livre    | Não         | PT-BR
 | [PortSwigger Web Security Academy](https://portswigger.net/web-security/)                                                                      | Livre    | Não         | EN-US
 | [RSI](https://www.youtube.com/c/RSIResid%C3%AAnciaemSeguran%C3%A7adaInforma%C3%A7%C3%A3o/playlists)                                            | Livre    | Não         | PT-BR
-
+| [StarsCTF](https://www.youtube.com/c/StarsCTF/playlists)                                                                                       | Livre    | Não         | PT-BR
+ 
 # :floppy_disk: Ferramentas Hacker
 
 - [PentestBox](https://pentestbox.org/pt/) :brazil:
