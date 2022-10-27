@@ -17,7 +17,7 @@ Se tiver dúvida de como fazer, veja o passo a passo completo <a href="https://m
 ---
 
 # :triangular_flag_on_post: CTF - Para praticar :space_invader:
-
+- [CYBERWARRIOR](https://www.cyberwarrior.com/ctf/) :us:
 - [Capture the flag](https://capturetheflag.com.br/) :brazil:
 - [CTF-BR](https://ctf-br.org/wiki/elt/) :brazil:
 - [CTF Learn](https://ctflearn.com/) :us:
